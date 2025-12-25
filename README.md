@@ -31,4 +31,4 @@ A data analysis project exploring movie ratings and trends using Python, Pandas,
 pip install pandas matplotlib seaborn
 
 # Run analysis
-python movie_analysis.py
+movie_rating_analysis.py
