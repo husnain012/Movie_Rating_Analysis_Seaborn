@@ -1,0 +1,21 @@
+movie_name,genre,release_year,rating,votes,duration
+Inception,Sci-Fi,2010,8.8,2000000,148
+Titanic,Romance,1997,7.9,1100000,195
+Avatar,Sci-Fi,2009,7.8,1200000,162
+The Dark Knight,Action,2008,9.0,2300000,152
+Interstellar,Sci-Fi,2014,8.6,1600000,169
+Joker,Drama,2019,8.5,1400000,122
+Frozen,Animation,2013,7.4,600000,109
+The Lion King,Animation,1994,8.5,1000000,88
+Avengers,Action,2012,8.0,1800000,143
+Toy Story,Animation,1995,8.3,800000,81
+Parasite,Thriller,2019,8.6,700000,132
+Gladiator,Action,2000,8.5,1500000,155
+Spider-Man,Action,2002,7.3,900000,121
+Coco,Animation,2017,8.4,600000,105
+Finding Nemo,Animation,2003,8.1,750000,100
+Up,Animation,2009,8.2,500000,96
+Jurassic Park,Adventure,1993,8.1,1000000,127
+The Matrix,Sci-Fi,1999,8.7,1700000,136
+Skyfall,Action,2012,7.8,800000,143
+Black Panther,Action,2018,7.3,1300000,134
